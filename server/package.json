@@ -1,0 +1,26 @@
+{
+  "name": "sqlwarsback",
+  "version": "1.0.0",
+  "description": "backend with pusher for sql wars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-arroyo/sqlwarspusher.git"
+  },
+  "keywords": [
+    "socket",
+    "sql"
+  ],
+  "author": "Gabriel Arroyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabriel-arroyo/sqlwarspusher/issues"
+  },
+  "homepage": "https://github.com/gabriel-arroyo/sqlwarspusher#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
